@@ -1,0 +1,1 @@
+print("Ciao! Oggi proverò ad indovinare un numero da 1 a 100")
